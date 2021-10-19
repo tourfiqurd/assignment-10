@@ -1,0 +1,25 @@
+.foods-container {
+    display: grid;
+
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+    padding: 50px;
+}
+
+.main-container-home {
+    display: grid;
+
+    grid-template-columns: 8fr 4fr;
+    grid-gap: 10px;
+
+
+
+}
+
+.fixed-item {
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+
+
+}

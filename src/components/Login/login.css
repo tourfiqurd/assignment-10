@@ -1,0 +1,28 @@
+.input-field {
+    padding: 10px 15px;
+    margin: 4px;
+}
+
+
+
+.login-btn {
+    padding: 15px 50px;
+    margin: 5px;
+    border: none;
+    width: 280px;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    font-weight: bold;
+    transition: .1s;
+}
+
+.login-btn:hover {
+    background-color: rgb(87, 87, 87);
+    cursor: pointer;
+
+}
+
+form {
+
+    padding: 20px;
+}

@@ -1,0 +1,5 @@
+.image:hover {
+    transform: scale(0.9);
+    overflow: hidden;
+
+}
